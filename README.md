@@ -1,8 +1,8 @@
 ### Hi there!
 
 | I am | I do | I like |
-| :--  | :--: |     :--|
-| Matthias | Web development | GitHub |
+| :-- | :-- | :-- |
+| Matthias | Webdev | GitHub |
 
 <!--
 **Asbestcode/Asbestcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
