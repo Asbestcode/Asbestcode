@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying Web Development
 - 🌱 I already made this GitHub profile page
-- ⚡ Besides web development i like 
+- ⚡ Besides web development i like döner
 - 💬 You can get in touch with me by e-mail at [details@gmx.de](mailto:details@gmx.de)
 
 ### My Experience
@@ -20,5 +20,4 @@ Languages & Technologies: `ALG2` \
 **Student Full Stack Web Development** \
 [**SPICED**](https://www.spiced-academy.com/) • Full-time \
 Languages & Technologies: `HTML`, `CSS`, `Javascript`\
-<br/>
 <br/>
