@@ -1,7 +1,7 @@
 ### Hi there 😘
 
 - 🔭 I’m currently studying Web Development
-- 🌱 I already made this GitHub profile page
+- 🌱 I already created this GitHub profile page
 - ⚡ Besides web development i like döner
 - 💬 You can get in touch with me by e-mail at [details@gmx.de](mailto:details@gmx.de)
 
